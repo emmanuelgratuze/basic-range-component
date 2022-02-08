@@ -1,0 +1,8 @@
+# Standards
+node_modules
+#.next
+.DS_Store
+dist/*.js
+package.json
+test/**/*js
+webpack.config.js
