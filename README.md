@@ -22,3 +22,15 @@ npm run develop
 ```
 npm run test
 ```
+
+## Lint code
+
+```
+npm run lint
+```
+
+## Format code
+
+```
+npm run format
+```
